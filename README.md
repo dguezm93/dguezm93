@@ -1,25 +1,27 @@
 <div align="center">
 
-# dguezm93
+# Forja Labs LLC
 
 ### Build useful things. Make them reliable.
 
 Software · Web · Automation · Data & AI
 
+[forjalabs.dev](https://forjalabs.dev) · [eduardo@forjalabs.dev](mailto:eduardo@forjalabs.dev)
+
 </div>
 
 ---
 
-I'm developing a practical engineering workspace: small tools, clear documentation, and repeatable workflows. My interests span web applications, automation, and data-driven software.
+Forja Labs LLC develops a practical engineering workspace: small tools, clear documentation, and repeatable workflows. Our work spans web applications, automation, and data-driven software.
 
 ### Start here
 
 | Repository | Purpose |
 | :--- | :--- |
-| [automation-starter](https://github.com/dguezm93/automation-starter) | A reusable Python CLI foundation with tests, CI, and dependency maintenance. |
-| [.github](https://github.com/dguezm93/.github) | Contribution guidelines, security reporting, and issue / pull request templates. |
+| [automation-starter](https://github.com/forjalabs-llc/automation-starter) | A reusable Python CLI foundation with tests, CI, and dependency maintenance. |
+| [.github](https://github.com/forjalabs-llc/.github) | Contribution guidelines, security reporting, and issue / pull request templates. |
 
-### How I want to build
+### How we build
 
 - **Clarity first.** Explain the problem, the setup, and the tradeoffs.
 - **Small, reviewable changes.** Use issues and pull requests to keep the reasoning visible.
@@ -27,7 +29,7 @@ I'm developing a practical engineering workspace: small tools, clear documentati
 - **Security by default.** Keep secrets out of Git and review dependencies.
 - **Learn by shipping.** Publish working increments and improve them with evidence.
 
-### Areas I'm exploring
+### Areas we explore
 
 | Software & web | Automation | Data & AI |
 | :--- | :--- | :--- |
@@ -36,7 +38,7 @@ I'm developing a practical engineering workspace: small tools, clear documentati
 <details>
 <summary>En español</summary>
 
-Estoy construyendo un espacio de trabajo para desarrollar software útil, aplicaciones web, automatizaciones y proyectos de datos e IA. Mi enfoque es aprender con proyectos reales, documentar las decisiones y mejorar la calidad con pruebas y revisiones.
+Forja Labs LLC crea software útil, aplicaciones web, automatizaciones y proyectos de datos e IA. Nuestro enfoque es aprender con proyectos reales, documentar las decisiones y mejorar la calidad con pruebas y revisiones.
 
 Las plantillas de esta cuenta son una base de trabajo; cada proyecto debe validar sus propios requisitos antes de publicarse o desplegarse.
 
