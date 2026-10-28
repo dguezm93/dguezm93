@@ -18,7 +18,6 @@ Forja Labs LLC develops a practical engineering workspace: small tools, clear do
 
 | Repository | Purpose |
 | :--- | :--- |
-| [automation-starter](https://github.com/forjalabs-llc/automation-starter) | A reusable Python CLI foundation with tests, CI, and dependency maintenance. |
 | [.github](https://github.com/forjalabs-llc/.github) | Contribution guidelines, security reporting, and issue / pull request templates. |
 
 ### How we build
